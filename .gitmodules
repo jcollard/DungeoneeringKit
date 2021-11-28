@@ -1,0 +1,6 @@
+[submodule "DungeoneeringUnity/Assets/Submodules/UnityUtils"]
+	path = DungeoneeringUnity/Assets/Submodules/UnityUtils
+	url = https://github.com/jcollard/UnityUtils.git
+[submodule "DungeoneeringUnity/Assets/Submodules/CSharpUtils"]
+	path = DungeoneeringUnity/Assets/Submodules/CSharpUtils
+	url = https://github.com/jcollard/CSharpUtils
